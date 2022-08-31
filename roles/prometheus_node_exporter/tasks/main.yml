@@ -18,6 +18,7 @@
     dest: /tmp/
     remote_src: yes
 
+
 - name: Copy prometheus node exporter file to bin
   copy:
     src: "/tmp/node_exporter-{{ version }}.linux-amd64/node_exporter"
