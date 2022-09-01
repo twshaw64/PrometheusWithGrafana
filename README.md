@@ -1,5 +1,7 @@
 # Prometheus with Grafana using Ansible
 
+All versions up to date as of 01/09/2022
+
 In this project, we are configurating prometheus, node_exporter, alertmanager and Grafana. We setup Grafana dashboard which can use source as Prometheus.
 
 ## Getting Started
